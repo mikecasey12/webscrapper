@@ -33,7 +33,7 @@ cd app
 3. **Run the script using Node.js:**
 
 ```bash
-node result_scraper
+node result_scrapper
 ```
 
 The script will start scraping the INEC Voters Online Portal and collect latitude and longitude data for polling units in Nigeria.
