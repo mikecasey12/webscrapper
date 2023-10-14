@@ -40,7 +40,7 @@ The script will start scraping the INEC Voters Online Portal and collect latitud
 
 ## Scraping a Specific State
 
-To scrape only a specific state change the index of in options to the value of each state as seen below.
+To scrape only a specific state change the index of options to the value of each state as seen below.
 To achieve this use the **scrapper.js**
 
 ```bash
