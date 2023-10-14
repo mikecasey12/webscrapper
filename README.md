@@ -20,8 +20,8 @@ npm install puppeteer
 1. **Clone this Git repository to your local machine:**
 
 ```bash
-git clone https://github.com/yourusername/inec-polling-unit-scraper.git
-cd inec-polling-unit-scraper
+git clone https://github.com/mikecasey12/webscrapper
+cd webscrapper
 ```
 
 2. **Navigate to the app directory:**
